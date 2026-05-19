@@ -1,0 +1,7 @@
+git add prepara el archivo para el commit
+git commit pasa los archivos del área de preparación al repositorio local 
+git push sube del repositorio local al repositorio remoto.
+git pull actualiza nuestro repositorio local
+git checkout sirve para cambiarnos de una rama a otra, al igual que git switch 
+para subir una rama
+git push -u origin nombredelarama
